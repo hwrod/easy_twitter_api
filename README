@@ -1,0 +1,3 @@
+Easy Twitter API Wrapper
+
+Provides a simple interface for interacting with Twitter. Available functions are: postTweet, getFollowers, getFollowing, follow, and unfollow.
